@@ -1,4 +1,4 @@
-package com.empresa.office;
+package com.empresa.office.Entidade;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

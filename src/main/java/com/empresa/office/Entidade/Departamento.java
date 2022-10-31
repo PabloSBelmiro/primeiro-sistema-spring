@@ -1,4 +1,4 @@
-package com.empresa.office;
+package com.empresa.office.Entidade;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
@@ -7,7 +7,7 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 
 @Entity
-@Table(name = "tb-departamento")
+@Table(name = "tb_departamento")
 public class Departamento {
 
     @Id
