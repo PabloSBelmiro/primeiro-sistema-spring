@@ -1,0 +1,77 @@
+INSERT INTO tb_departamento(name) VALUES ('DP'); /*id = 1*/
+INSERT INTO tb_departamento(name) VALUES ('TI'); /*id = 2*/
+INSERT INTO tb_departamento(name) VALUES ('Compras'); /*id = 3*/
+INSERT INTO tb_departamento(name) VALUES ('Marketing'); /*id = 4*/
+INSERT INTO tb_departamento(name) VALUES ('Operação'); /*id = 5*/
+
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (1, 'Alex', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (1, 'João', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (1, 'Fernando', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (1, 'Jair', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (1, 'Marcio', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (1, 'Marcia', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (1, 'Jorge', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (1, 'José', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (1, 'Zê', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (1, 'Gabriel', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (2, 'Gabi', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (2, 'Marlon', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (2, 'Brenda', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (2, 'Natalia', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (2, 'Pablo', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (2, 'Vanessa', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (2, 'Nathan', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (2, 'Moises', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (2, 'Carmem', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (2, 'Lucia', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (2, 'Ronaldo', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (2, 'Neto', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (2, 'Everton', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (2, 'Jamile', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (2, 'Karine', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (2, 'Kellen', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (2, 'Vitor', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (3, 'Rogerio', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (3, 'Daniel', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (3, 'Emanuel', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (3, 'Emanuela', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (3, 'Jesus', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (3, 'Fagner', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (3, 'Adriano', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (3, 'Joyce', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (3, 'Catarina', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (3, 'Pedro', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (3, 'Luiz', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (3, 'Maicon', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (3, 'Marlene', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (3, 'Roselma', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (3, 'Alexandre', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (3, 'Açexandra', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (3, 'Roselma', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (3, 'Simone', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (3, 'Juliana', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (4, 'Julia', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (4, 'Jasmin', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (4, 'Luca', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (4, 'Lucas', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (4, 'Monique', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (4, 'Rafael', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (4, 'Anderson', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (4, 'Iago', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (4, 'Hiago', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (4, 'Leo', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (4, 'Leonardo', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (4,  'Diana', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (5, 'Marcos', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (5, 'Fabiano', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (5, 'Fabio', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (5, 'Fabiola', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (5, 'Cintia', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (5, 'Melissa', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (5, 'Andrea', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (5, 'Andre', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (5, 'Cristiane', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (5, 'Crivaldo', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (5, 'Evelin', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (5, 'Miguel', );
+INSERT INTO tb_funcionario(tb_departamento_id, name, emai) VALUES (5, 'Fael', );
