@@ -4,4 +4,6 @@
 - Implementei um pequeno sistema de uma empresa, fazendo assim uma pequena API REST
 - Usando o banco H2
 - Mapeamento objeto-relacional com JPA
+- Implementei uma API REST
+
 
